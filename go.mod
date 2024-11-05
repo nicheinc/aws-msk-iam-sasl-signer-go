@@ -1,4 +1,4 @@
-module github.com/aws/aws-msk-iam-sasl-signer-go
+module github.com/nicheinc/aws-msk-iam-sasl-signer-go
 
 go 1.21
 
